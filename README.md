@@ -19,7 +19,7 @@ A simple command-line interface (CLI) application written in Go to manage ticket
    ```bash
    go install github.com/parthava-adabala/booking-app@latest
    ```
-3. Ensure `$GOPATH/bin` (or `$HOME/go/bin`) is in your system’s PATH to run the `conference-booking` command.
+3. Ensure `$GOPATH/bin` (or `$HOME/go/bin`) is in your system’s PATH to run the `booking-app` command.
 
 ## Usage
 Run the CLI and follow the prompts to book tickets:
