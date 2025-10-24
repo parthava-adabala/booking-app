@@ -1,10 +1,11 @@
 package main
 
 import (
-	"booking-app/helper"
 	"fmt"
 	"sync"
 	"time"
+
+	"github.com/parthava-adabala/booking-app/helper"
 )
 
 const conferenceTickets int = 50
